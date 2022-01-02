@@ -1,2 +1,2 @@
 # FreeCad
-Esto es una prueba
+Recursos para aprender a manejar FreeCad
